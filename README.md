@@ -39,6 +39,17 @@ Located in: `data/questionario_greenmobility.csv`
 
 ---
 
+📷 **Screenshot**  
+![Portfolio Screenshot](https://raw.githubusercontent.com/mikael-10/personal-portfolio/main/assets/img/projects/project3.webp)  
+*A preview of the homepage with featured projects and responsive layout.*
+
+---
+
+🔗 **Live Demo**  
+👉 [Visit the site](https://mikael-10.github.io/personal-portfolio/)
+
+---
+
 🛠 **Source Code:**  
 [GitHub Repository](https://github.com/mikael-10/green-mobility-python)
 
