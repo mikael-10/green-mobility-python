@@ -1,0 +1,56 @@
+Genere,Età,Regione,Mezzo_usato_settimanale,Motivo_utilizzo,Interesse_green_mobility,Disposto_pagare_di_piu,Inquinamento_è_problema,Userebbe_mezzo_alternativo,Svantaggi_bicicletta,Vantaggi_bicicletta,La_bici_riduce_inquinamento
+Femmina,25-34,Torino,Mezzi pubblici,Comodità,Sì,No,No,Sì,Fatica,Economicità,Sì
+Maschio,55-64,Torino,Auto,Comodità,Sì,No,Sì,Sì,Pericolosità,Sostenibilità ambientale,Sì
+Femmina,35-44,Cuneo,Auto,Comodità,Sì,Sì,Sì,Sì,Pericolosità,Flessibilità,Sì
+Maschio,25-34,Torino,Camminare,Velocità,No,No,No,Sì,Clima sfavorevole,Salubrità,Sì
+Maschio,0-18,Asti,Auto,Velocità,Sì,No,Sì,Sì,Limitazione dei carichi,Salubrità,Sì
+Maschio,18-24,Cuneo,Auto,Costo,No,No,Non so,Dipende,Limitazione dei carichi,Flessibilità,Sì
+Femmina,35-44,Torino,Bicicletta,Velocità,Sì,No,Sì,Sì,Fatica,Salubrità,Sì
+Altro,65+,Asti,Mezzi pubblici,Comodità,No,No,Sì,Sì,Fatica,Salubrità,Sì
+Femmina,65+,Alessandria,Bicicletta,Velocità,Sì,No,Sì,Sì,Fatica,Salubrità,Sì
+Maschio,25-34,Verbania,Auto,Costo,Sì,Sì,Sì,Sì,Clima sfavorevole,Economicità,Sì
+Maschio,18-24,Novara,Auto,Velocità,Sì,Sì,Sì,Sì,Fatica,Salubrità,Sì
+Femmina,0-18,Asti,Mezzi pubblici,Costo,Sì,No,Sì,Sì,Clima sfavorevole,Sostenibilità ambientale,Sì
+Femmina,35-44,Cuneo,Bicicletta,Velocità,No,No,Sì,Sì,Fatica,Economicità,Sì
+Femmina,55-64,Cuneo,Auto,Comodità,Sì,No,Sì,Sì,Nessuno,Economicità,Sì
+Femmina,45-54,Asti,Auto,Comodità,No,No,Sì,Dipende,Clima sfavorevole,Sostenibilità ambientale,Sì
+Altro,45-54,Torino,Auto,Comodità,Sì,Sì,Sì,Sì,Limitazione dei carichi,Economicità,No
+Maschio,35-44,Alessandria,Auto,Velocità,Sì,No,Sì,Sì,Clima sfavorevole,Flessibilità,Sì
+Maschio,18-24,Cuneo,Auto,Comodità,No,Sì,Sì,Sì,Limitazione dei carichi,Salubrità,Sì
+Femmina,55-64,Vercelli,Auto,Velocità,No,Sì,No,Sì,Limitazione dei carichi,Flessibilità,Sì
+Maschio,55-64,Torino,Bicicletta,Comodità,Sì,No,Sì,Sì,Fatica,Sostenibilità ambientale,Sì
+Femmina,45-54,Torino,Auto,Comodità,No,Sì,Sì,No,Nessuno,Economicità,Sì
+Maschio,18-24,Novara,Auto,Velocità,Sì,No,Sì,No,Clima sfavorevole,Sostenibilità ambientale,Sì
+Femmina,45-54,Torino,Auto,Comodità,Sì,Sì,Sì,No,Fatica,Flessibilità,Sì
+Maschio,55-64,Biella,Bicicletta,Sostenibilità ambientale,Sì,Sì,Sì,No,Clima sfavorevole,Sostenibilità ambientale,Sì
+Femmina,35-44,Alessandria,Bicicletta,Comodità,No,Sì,Sì,Sì,Pericolosità,Sostenibilità ambientale,Sì
+Maschio,35-44,Cuneo,Auto,Comodità,No,No,Sì,Sì,Limitazione dei carichi,Economicità,Sì
+Maschio,55-64,Biella,Auto,Velocità,No,Sì,Sì,Sì,Limitazione dei carichi,Salubrità,Sì
+Maschio,35-44,Cuneo,Auto,Comodità,Sì,No,No,Dipende,Fatica,Sostenibilità ambientale,Sì
+Femmina,35-44,Torino,Auto,Costo,Sì,Sì,Sì,Sì,Fatica,Sostenibilità ambientale,Sì
+Maschio,45-54,Torino,Mezzi pubblici,Comodità,Sì,Sì,Sì,No,Fatica,Economicità,Sì
+Femmina,45-54,Cuneo,Bicicletta,Velocità,No,No,Sì,Sì,Limitazione dei carichi,Sostenibilità ambientale,Sì
+Femmina,45-54,Torino,Auto,Comodità,Sì,No,Sì,Sì,Pericolosità,Economicità,Sì
+Maschio,25-34,Asti,Camminare,Velocità,Sì,Sì,Sì,Dipende,Nessuno,Economicità,Sì
+Maschio,35-44,Alessandria,Bicicletta,Sostenibilità ambientale,Sì,Sì,Sì,Dipende,Fatica,Economicità,Sì
+Femmina,65+,Asti,Auto,Comodità,Sì,Sì,Sì,Sì,Clima sfavorevole,Salubrità,Sì
+Femmina,25-34,Novara,Auto,Comodità,Sì,No,Sì,Dipende,Limitazione dei carichi,Salubrità,No
+Femmina,65+,Novara,Auto,Costo,Sì,No,No,No,Limitazione dei carichi,Salubrità,Sì
+Maschio,35-44,Torino,Auto,Velocità,No,No,Sì,Sì,Pericolosità,Flessibilità,Sì
+Femmina,25-34,Biella,Auto,Comodità,Sì,No,Sì,No,Clima sfavorevole,Salubrità,Sì
+Femmina,35-44,Cuneo,Moto,Costo,Sì,Sì,Sì,Sì,Nessuno,Sostenibilità ambientale,No
+Maschio,18-24,Vercelli,Moto,Velocità,No,No,Sì,No,Fatica,Salubrità,Sì
+Femmina,55-64,Torino,Auto,Comodità,No,Sì,Sì,Sì,Fatica,Economicità,Sì
+Femmina,18-24,Novara,Auto,Costo,Sì,No,Sì,Sì,Limitazione dei carichi,Economicità,Sì
+Maschio,25-34,Torino,Auto,Velocità,Sì,No,Sì,Dipende,Fatica,Sostenibilità ambientale,No
+Femmina,25-34,Torino,Auto,Costo,Sì,No,Non so,Sì,Fatica,Sostenibilità ambientale,Sì
+Femmina,55-64,Torino,Bicicletta,Costo,No,No,No,No,Limitazione dei carichi,Salubrità,Sì
+Maschio,0-18,Torino,Mezzi pubblici,Costo,Sì,Sì,Sì,Sì,Nessuno,Sostenibilità ambientale,Sì
+Maschio,18-24,Torino,Mezzi pubblici,Comodità,Sì,No,Sì,Sì,Nessuno,Flessibilità,Sì
+Maschio,55-64,Biella,Auto,Comodità,Sì,Sì,Sì,Dipende,Fatica,Salubrità,Sì
+Maschio,25-34,Asti,Bicicletta,Velocità,Sì,No,Sì,Sì,Clima sfavorevole,Sostenibilità ambientale,Sì
+Maschio,45-54,Biella,Auto,Comodità,Sì,No,Non so,No,Fatica,Salubrità,Sì
+Femmina,35-44,Asti,Camminare,Velocità,Sì,No,Sì,Sì,Limitazione dei carichi,Sostenibilità ambientale,Sì
+Maschio,55-64,Novara,Auto,Velocità,Sì,Sì,Sì,No,Clima sfavorevole,Sostenibilità ambientale,Sì
+Maschio,55-64,Torino,Mezzi pubblici,Velocità,Sì,Sì,Non so,Sì,Pericolosità,Sostenibilità ambientale,Sì
+Femmina,65+,Cuneo,Auto,Velocità,Sì,No,Sì,Sì,Pericolosità,Flessibilità,No
