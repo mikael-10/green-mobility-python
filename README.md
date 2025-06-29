@@ -33,6 +33,13 @@ The results were obtained by combining descriptive statistics with visual storyt
 
 ---
 
+🧠 **Key Insights**  
+- 🚲 63% of respondents are willing to switch to greener transport.  
+- 👩 Women use public transport nearly twice as often as men.  
+- 📊 Dataset: 300+ survey responses collected and cleaned in CSV format.
+
+---
+
 📁 **Dataset**  
 The data was collected via questionnaire and processed locally.  
 Located in: `data/questionario_greenmobility.csv`
