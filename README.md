@@ -40,6 +40,14 @@ The results were obtained by combining descriptive statistics with visual storyt
 
 ---
 
+💡 **Recommendations**  
+- Encourage public transport use among male commuters with awareness campaigns.  
+- Expand cycling infrastructure, especially around universities and student zones.  
+- Offer subsidies or discounts for public transit passes and electric bike purchases.  
+- Integrate environmental education into student programs to boost eco-awareness.
+
+---
+
 📁 **Dataset**  
 The data was collected via questionnaire and processed locally.  
 Located in: `data/questionario_greenmobility.csv`
